@@ -15,44 +15,44 @@ https://m.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
 MIT 6.824 Distributed Systems  
 https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB  
 
-Distributed Systems  a\
-https://youtube.com/playlist?list=PLrjkTql3jnm9FEOXHA_qjR-TMODlaIk-W  a\
+Distributed Systems  
+https://youtube.com/playlist?list=PLrjkTql3jnm9FEOXHA_qjR-TMODlaIk-W  
 
-Distributed Systems lecture series  a\
-https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB  a\
+Distributed Systems lecture series  
+https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB  
 
-Berkeley CS 162 Operating Systems  a\
-https://youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM  a\
+Berkeley CS 162 Operating Systems  
+https://youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM  
 
-Networks (in Arabic)  a\
-https://youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp  a\
+Networks (in Arabic)  
+https://youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp  
 
-Web Server and Application Server  a\
-https://youtu.be/thJSev60yfg  a\
+Web Server and Application Server  
+https://youtu.be/thJSev60yfg  
 
-Introduction to Computer Networks   a\
-https://youtube.com/playlist?list=PLBlnK6fEyqRgneraVKkEXrwyLVx2vJUvt  a\
+Introduction to Computer Networks  
+https://youtube.com/playlist?list=PLBlnK6fEyqRgneraVKkEXrwyLVx2vJUvt  
  
-Introduction to Modern Application Development  a\
-https://youtube.com/playlist?list=PLJ5C_6qdAvBEJ6-TBzKoa1Ov21lwDzJfM  a\
+Introduction to Modern Application Development  
+https://youtube.com/playlist?list=PLJ5C_6qdAvBEJ6-TBzKoa1Ov21lwDzJfM  
 
-Hadoop & Distributed Systems  a\
-https://youtube.com/playlist?list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa  a\
+Hadoop & Distributed Systems  
+https://youtube.com/playlist?list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa  
 
-Power BI  a\
-https://youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw  a\
-
-
-Analyze & Visualize Data with Power BI  a\
-https://youtube.com/playlist?list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP  a\
+Power BI  
+https://youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw  
 
 
+Analyze & Visualize Data with Power BI  
+https://youtube.com/playlist?list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP  
 
-ETL Practice  a\
-https://www.youtube.com/playlist?list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf  a\
 
-BigData Engineering  a\
-https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF  a\
 
-Containerization  a\
-https://www.youtube.com/playlist?list=PLxNoJq6k39G8zg-t26bV-JGLokr0mgNKk a\
+ETL Practice  
+https://www.youtube.com/playlist?list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf  
+
+BigData Engineering  
+https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF  
+
+Containerization  
+https://www.youtube.com/playlist?list=PLxNoJq6k39G8zg-t26bV-JGLokr0mgNKk 
