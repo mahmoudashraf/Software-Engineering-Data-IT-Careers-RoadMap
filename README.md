@@ -5,9 +5,11 @@ https://github.com/mahmoudashraf/Software-Engineering-Data-IT-Careers/blob/main/
 ![Untitled Workspace (1)](https://user-images.githubusercontent.com/4873795/135354601-bdb65dfb-1313-494b-9bc1-74b57fa17507.jpg)
 
 
-
 MIT's Introduction to Computer Science and Programming Using Python  a\
 https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d  
+
+Data Structures and Algorithms Specialization
+https://www.coursera.org/specializations/data-structures-algorithms
 
 Intro to Database Systems  
 https://m.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi  
@@ -36,12 +38,12 @@ https://youtube.com/playlist?list=PLBlnK6fEyqRgneraVKkEXrwyLVx2vJUvt
 Introduction to Modern Application Development  
 https://youtube.com/playlist?list=PLJ5C_6qdAvBEJ6-TBzKoa1Ov21lwDzJfM  
 
-Hadoop & Distributed Systems  
-https://youtube.com/playlist?list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa  
 
+
+
+Data:
 Power BI  
 https://youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw  
-
 
 Analyze & Visualize Data with Power BI  
 https://youtube.com/playlist?list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP  
@@ -52,12 +54,31 @@ https://www.youtube.com/playlist?list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf
 BigData Engineering  
 https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF  
 
-Containerization  
-https://www.youtube.com/playlist?list=PLxNoJq6k39G8zg-t26bV-JGLokr0mgNKk 
+Hadoop & Distributed Systems  
+https://youtube.com/playlist?list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa  
 
 
-Data Structures and Algorithms Specialization
-https://www.coursera.org/specializations/data-structures-algorithms
+
+ML:
+End-to-end machine learning project in Arabic
+https://www.youtube.com/playlist?list=PLCmrNpr7ilqMWmNma8PjgkyEG72saZ1yn
 
 Mathematics for Machine Learning Specialization
 https://www.coursera.org/specializations/mathematics-machine-learning
+
+Prbability Statistics
+https://www.khanacademy.org/math/statistics-probability
+
+Machine Learning -Andrew Ng
+https://www.coursera.org/learn/machine-learning
+
+Become a Machine Learning Engineer
+https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
+
+
+DevOPS
+Containerization  
+https://www.youtube.com/playlist?list=PLxNoJq6k39G8zg-t26bV-JGLokr0mgNKk 
+
+Become a Cloud DevOps Engineer
+https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991
