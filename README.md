@@ -2,8 +2,8 @@
 Descripting the Fundementals Paths for Modern IT jobs a\
 Download the pdf file for detailed course URLs a\
 https://github.com/mahmoudashraf/Software-Engineering-Data-IT-Careers/blob/main/Modern_IT_Careers.pdf
+![Untitled Workspace (3)](https://user-images.githubusercontent.com/4873795/135936566-b9ff3305-1147-44cc-a81b-ac57c57e235b.jpg)
 
-![Untitled Workspace (2)](https://user-images.githubusercontent.com/4873795/135936047-f9472cf1-e843-4ae2-b5a4-454cda7ba01e.jpg)
 
 
 MIT's Introduction to Computer Science and Programming Using Python  a\
