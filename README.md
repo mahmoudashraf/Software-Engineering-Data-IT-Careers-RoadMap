@@ -5,7 +5,7 @@ https://github.com/mahmoudashraf/Software-Engineering-Data-IT-Careers/blob/main/
 ![Untitled Workspace (3)](https://user-images.githubusercontent.com/4873795/135936566-b9ff3305-1147-44cc-a81b-ac57c57e235b.jpg)
 
 
-
+# Start Here "Fundementals"
 MIT's Introduction to Computer Science and Programming Using Python  a\
 https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d  
 
