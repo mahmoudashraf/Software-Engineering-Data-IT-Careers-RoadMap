@@ -6,14 +6,14 @@ https://github.com/mahmoudashraf/Software-Engineering-Data-IT-Careers/blob/main/
 
 
 
-MIT's Introduction to Computer Science and Programming Using Python a\
-https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d  a\
+MIT's Introduction to Computer Science and Programming Using Python 
+https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d  
 
-Intro to Database Systems  a\
-https://m.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi  a\
+Intro to Database Systems  
+https://m.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi  
 
-MIT 6.824 Distributed Systems  a\
-https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB  a\
+MIT 6.824 Distributed Systems  
+https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB  
 
 Distributed Systems  a\
 https://youtube.com/playlist?list=PLrjkTql3jnm9FEOXHA_qjR-TMODlaIk-W  a\
