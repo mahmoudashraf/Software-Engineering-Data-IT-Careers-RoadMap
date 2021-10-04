@@ -40,7 +40,7 @@ Introduction to Modern Application Development
 https://youtube.com/playlist?list=PLJ5C_6qdAvBEJ6-TBzKoa1Ov21lwDzJfM  
 
 
-
+# Data Strucure & Algorithms
 
 # Data:
 Power BI  
