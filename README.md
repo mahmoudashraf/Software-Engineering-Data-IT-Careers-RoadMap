@@ -42,7 +42,7 @@ https://youtube.com/playlist?list=PLJ5C_6qdAvBEJ6-TBzKoa1Ov21lwDzJfM
 
 
 
-Data:
+# Data:
 Power BI  
 https://youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw  
 
@@ -60,7 +60,7 @@ https://youtube.com/playlist?list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa
 
 
 
-ML:
+# Machine Learning:
 End-to-end machine learning project in Arabic
 https://www.youtube.com/playlist?list=PLCmrNpr7ilqMWmNma8PjgkyEG72saZ1yn
 
