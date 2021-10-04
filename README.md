@@ -42,7 +42,7 @@ https://youtube.com/playlist?list=PLJ5C_6qdAvBEJ6-TBzKoa1Ov21lwDzJfM
 
 # Data Strucure & Algorithms
 https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256
-Algorithms Design Manual a\
+a\ Algorithms Design Manual a\
 Comptitive Programming 4 books1,2a\
 
 
