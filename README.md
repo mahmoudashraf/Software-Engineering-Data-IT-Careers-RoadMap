@@ -1,7 +1,7 @@
 # Software-Engineering-Data-IT-Careers
 Descripting the Fundementals Paths for Modern IT jobs a\
 Download the pdf file for detailed course URLs a\
-https://github.com/mahmoudashraf/Software-Engineering-Data-IT-Careers/blob/main/Modern%20IT%20Careers.pdf
+https://github.com/mahmoudashraf/Software-Engineering-Data-IT-Careers/blob/main/Modern_IT_Careers.pdf
 
 ![Untitled Workspace (2)](https://user-images.githubusercontent.com/4873795/135936047-f9472cf1-e843-4ae2-b5a4-454cda7ba01e.jpg)
 
