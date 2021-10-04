@@ -46,8 +46,6 @@ https://youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw
 Analyze & Visualize Data with Power BI  
 https://youtube.com/playlist?list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP  
 
-
-
 ETL Practice  
 https://www.youtube.com/playlist?list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf  
 
@@ -56,3 +54,10 @@ https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF
 
 Containerization  
 https://www.youtube.com/playlist?list=PLxNoJq6k39G8zg-t26bV-JGLokr0mgNKk 
+
+
+Data Structures and Algorithms Specialization
+https://www.coursera.org/specializations/data-structures-algorithms
+
+Mathematics for Machine Learning Specialization
+https://www.coursera.org/specializations/mathematics-machine-learning
