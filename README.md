@@ -6,7 +6,7 @@ https://github.com/mahmoudashraf/Software-Engineering-Data-IT-Careers/blob/main/
 
 
 
-MIT's Introduction to Computer Science and Programming Using Python 
+MIT's Introduction to Computer Science and Programming Using Python  a\
 https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d  
 
 Intro to Database Systems  
