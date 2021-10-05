@@ -63,14 +63,7 @@ Hadoop & Distributed Systems
 https://youtube.com/playlist?list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa  
 
 
-
-# Machine Learning:
-End-to-end machine learning project in Arabic
-https://www.youtube.com/playlist?list=PLCmrNpr7ilqMWmNma8PjgkyEG72saZ1yn
-
-Mathematics for Machine Learning Specialization
-https://www.coursera.org/specializations/mathematics-machine-learning
-
+# Statistics
 Prbability Statistics
 https://www.khanacademy.org/math/statistics-probability
 
@@ -83,12 +76,22 @@ https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
 Intro to Inferential Statistics
 https://www.udacity.com/course/intro-to-inferential-statistics--ud201
 
+
+# Machine Learning:
+End-to-end machine learning project in Arabic
+https://www.youtube.com/playlist?list=PLCmrNpr7ilqMWmNma8PjgkyEG72saZ1yn
+
+Mathematics for Machine Learning Specialization
+https://www.coursera.org/specializations/mathematics-machine-learning
+
 Machine Learning -Andrew Ng
 https://www.coursera.org/learn/machine-learning
 
 Become a Machine Learning Engineer
 https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
 
+# Data Analyist 
+https://www.udacity.com/course/data-analyst-nanodegree--nd002
 
 # DevOPS
 Containerization  
