@@ -96,3 +96,10 @@ https://www.youtube.com/playlist?list=PLxNoJq6k39G8zg-t26bV-JGLokr0mgNKk
 
 Become a Cloud DevOps Engineer
 https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991
+
+
+
+# cloud Native Developer
+https://www.udacity.com/course/cloud-developer-nanodegree--nd9990
+Cloud Native Application Architecture
+https://www.udacity.com/course/cloud-native-application-architecture-nanodegree--nd064
