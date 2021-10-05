@@ -74,6 +74,15 @@ https://www.coursera.org/specializations/mathematics-machine-learning
 Prbability Statistics
 https://www.khanacademy.org/math/statistics-probability
 
+Intro to Data Analysis
+https://www.udacity.com/course/intro-to-data-analysis--ud170
+
+Intro to Descriptive Statistics
+https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+
+Intro to Inferential Statistics
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+
 Machine Learning -Andrew Ng
 https://www.coursera.org/learn/machine-learning
 
